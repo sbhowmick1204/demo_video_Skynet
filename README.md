@@ -1,4 +1,4 @@
-# demo_video_Skynet
+# demo_video_Skynet(in Early stage)
 Demonstration video and screenshots of  initial phase of our development.
 
 In our initial phase the software is detecting just the person or any kind of activity .
